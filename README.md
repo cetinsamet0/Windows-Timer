@@ -8,4 +8,4 @@ TR
 <hr/>
 Merhaba sayın kullanıcı,</br>
 Bu uygulamanın amacı; siz işlerinizle ilgilenirken sizi rahatsız etmeden masaüstünüze yapışık bir şekilde, hiçbir simge göstermeden çalıştığı andan itibaren geçen zamanı saniye, dakika ve saat cinsinden ölçmeniz için tasarlanmış bir zamanlayıcıdır.
-![Screen](https://github.com/cetinsamet0/Windows-Timer/assets/69821351/996d289b-6da0-4cf6-90f4-ac22fa52c378)
+<img src="https://github.com/cetinsamet0/Windows-Timer/assets/69821351/996d289b-6da0-4cf6-90f4-ac22fa52c378">
