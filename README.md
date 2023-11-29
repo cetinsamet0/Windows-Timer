@@ -1,9 +1,9 @@
 # Windows-Timer
-Eng
+ENG
 <hr/>
 Hello dear user,  
-The purpose of this application is to allow you to measure the elapsed time in seconds, minutes, and hours without disturbing you while you focus on your tasks. It is designed to run in the background, stick to your desktop without displaying any icons, starting from the moment it starts working.
-Tr
+The purpose of this application is to allow you to measure the elapsed time in seconds, minutes, and hours without disturbing you while you focus on your tasks. It is designed to run in the background, stick to your desktop without displaying any icons, starting from the moment it starts working.</br>
+TR
 <hr/>
 Merhaba sayın kullanıcı,
 Bu uygulamanın amacı; siz işlerinizle ilgilenirken sizi rahatsız etmeden masaüstünüze yapışık bir şekilde, hiçbir simge göstermeden çalıştığı andan itibaren geçen zamanı saniye, dakika ve saat cinsinden ölçmeniz için tasarlanmış bir zamanlayıcıdır.
