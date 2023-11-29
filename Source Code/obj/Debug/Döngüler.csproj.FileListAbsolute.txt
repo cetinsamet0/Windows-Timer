@@ -1,0 +1,10 @@
+C:\Users\MacBook\source\repos\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\MacBook\source\repos\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\MacBook\source\repos\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.Properties.Resources.resources
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.csproj.GenerateResource.cache
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.pdb
+C:\Users\MacBook\source\repos\Döngüler\obj\Debug\Döngüler.timer.resources
